@@ -11,8 +11,12 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-Esse é meu projeto impossível. Uma laboratório onde eu posso utilizar para estudar qualquer tecnologia e conceitos de engenharia de software.
+Olá, eu sou o [Matheus da Cunha](https://matheusdcunha.dev).
 
-Ele se chama gr4nd-line (sim, uma referência de One Piece). Ele vai ser um mini Mercado Livre, uma mini Amazon ou um mini Alibaba. Um marketplace de venda de produtos, um e-commerce generalista.
+Esse é meu projeto impossível. Uma laboratório onde eu posso utilizar para estudar tecnologia e conceitos de engenharia de software.
+
+Ele se chama gr4nd-line (sim, uma referência a One Piece).
+
+Ele vai ser um mini Mercado Livre, uma mini Amazon ou um mini Alibaba. Um marketplace de venda de produtos, um e-commerce generalista.
 
 Eu não tenho a pretensão de terminar esse projeto nunca, quero que ele seja um parque aberto para qualquer maluquice que eu queira estudar e colocar em prática.
