@@ -11,12 +11,12 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-Olá, eu sou o [Matheus da Cunha](https://matheusdcunha.dev).
+Hello, I'm [Matheus da Cunha](https://matheusdcunha.dev).
 
-Esse é meu projeto impossível. Uma laboratório onde eu posso utilizar para estudar tecnologia e conceitos de engenharia de software.
+This is my **impossible project**. A laboratory I can use to study technology and software engineering concepts.
 
-Ele se chama gr4nd-line (sim, uma referência a One Piece).
+It's called **gr4nd-line** (yes, a reference to One Piece). It will be a mini Mercado Libre, a mini Amazon, or a mini Alibaba.
 
-Ele vai ser um mini Mercado Livre, uma mini Amazon ou um mini Alibaba. Um marketplace de venda de produtos, um e-commerce generalista.
+A marketplace for selling products, a general e-commerce platform.
 
-Eu não tenho a pretensão de terminar esse projeto nunca, quero que ele seja um parque aberto para qualquer maluquice que eu queira estudar e colocar em prática.
+I have no intention of ever finishing this project; I want it to be an open playground for any crazy idea I want to study and put into practice.
